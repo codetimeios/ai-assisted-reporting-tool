@@ -2,14 +2,3 @@ pandas==2.1.0
 numpy==1.26.0
 pyodbc==4.0.39
 openai==1.0.0
-Explanation:
-
-pandas → for data handling and reports
-
-numpy → often used with pandas for calculations
-
-pyodbc → to connect to SQL Server databases
-
-openai → if your project uses Azure OpenAI API
-
-Note: Versions can be adjusted based on what you have installed locally (pip freeze helps).
