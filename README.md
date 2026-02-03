@@ -15,7 +15,7 @@ A Python and SQL Server-based tool that automates report generation from structu
 **Setup Instructions:**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/ai-assisted-reporting-tool.git
+   git clone https://github.com/codetimeios/ai-assisted-reporting-tool.git
 Install required Python packages:
 
 pip install -r requirements.txt
